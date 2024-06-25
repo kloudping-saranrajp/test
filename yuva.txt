@@ -1,1 +1,13 @@
+<<<<<<< .mine
 hw are you
+
+
+
+
+=======
+
+
+ben ten
+One Piece
+
+>>>>>>> .theirs
