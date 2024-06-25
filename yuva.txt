@@ -1,7 +1,1 @@
-<<<<<<< .mine
-help
-
-=======
-hello
-ben ten
->>>>>>> .theirs
+hw are you
