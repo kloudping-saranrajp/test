@@ -1,6 +1,1 @@
-
-<<<<<<< .mine
-Naruto 
-=======
-hw are you
->>>>>>> .theirs
+maa
